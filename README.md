@@ -4,4 +4,4 @@ bing-pull-request-testing
 
 ok 
 
-i am trying to pull request from a forked repo
+for commit 1 yaay
